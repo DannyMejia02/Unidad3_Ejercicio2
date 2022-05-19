@@ -17,5 +17,13 @@ public class G9_Unidad03_Ejercio02 {
         
         var v2 = new VentanaB("Datos Personales");
         v2.setVisible(true);
+        
+        var v3 = new VentanaC("Informacion de carrera");
+        v3.setVisible(true);
+        
+        var v4 = new VentanaD("Crear Grupo");
+        v4.setVisible(true);
+        
+        
     }
 }

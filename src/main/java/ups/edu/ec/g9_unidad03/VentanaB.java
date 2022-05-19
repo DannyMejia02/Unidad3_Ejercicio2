@@ -34,7 +34,7 @@ public class VentanaB extends JFrame{
      }
      public void iniciarComponentes(){
         this.jPanel1 = new JPanel();
-        this.jPanel1.setBackground(Color.RED);
+        this.jPanel1.setBackground(Color.WHITE);
         this.jPanel1.setLayout(new GridLayout(9,1));
         this.iniciarPaneles();
         this.iniciarEtiquetas();
